@@ -2,5 +2,5 @@
 
 Trabajo para la materia Matematica IV
 
-AJENJO TOBIAS
+AJENJO TOBIAS -
 LETTIERI JUAN DE DIOS
